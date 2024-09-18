@@ -1,6 +1,7 @@
 let cantidad = document.getElementById('cantidad');
 let boton = document.getElementById('generar');
-let contraseña = document.getElementById('contrasena')
+let boton = document.getElementById('limpiar');
+let contraseña = document.getElementById('contrasena');
 
 const cadenaCaracteres = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()';
 
